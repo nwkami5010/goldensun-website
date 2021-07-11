@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goldensun-website/static/css/main.c5c66966.chunk.css",
+    "main.js": "/goldensun-website/static/js/main.604d018f.chunk.js",
+    "main.js.map": "/goldensun-website/static/js/main.604d018f.chunk.js.map",
+    "runtime-main.js": "/goldensun-website/static/js/runtime-main.704d7830.js",
+    "runtime-main.js.map": "/goldensun-website/static/js/runtime-main.704d7830.js.map",
+    "static/js/2.300328e5.chunk.js": "/goldensun-website/static/js/2.300328e5.chunk.js",
+    "static/js/2.300328e5.chunk.js.map": "/goldensun-website/static/js/2.300328e5.chunk.js.map",
+    "static/js/3.fec03b34.chunk.js": "/goldensun-website/static/js/3.fec03b34.chunk.js",
+    "static/js/3.fec03b34.chunk.js.map": "/goldensun-website/static/js/3.fec03b34.chunk.js.map",
+    "index.html": "/goldensun-website/index.html",
+    "static/css/main.c5c66966.chunk.css.map": "/goldensun-website/static/css/main.c5c66966.chunk.css.map",
+    "static/js/2.300328e5.chunk.js.LICENSE.txt": "/goldensun-website/static/js/2.300328e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.704d7830.js",
+    "static/js/2.300328e5.chunk.js",
+    "static/css/main.c5c66966.chunk.css",
+    "static/js/main.604d018f.chunk.js"
+  ]
+}
